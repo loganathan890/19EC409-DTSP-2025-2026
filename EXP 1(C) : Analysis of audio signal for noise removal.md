@@ -119,3 +119,4 @@ plot_spec(estimated_noise, sr, "Spectrogram of Extracted Noise")
 <img width="1012" height="393" alt="1C2" src="https://github.com/user-attachments/assets/38921551-596e-41c4-b088-d76de9414470" />
 
 # RESULT: 
+Thus,the analysis of DFT with audio signal is verified
